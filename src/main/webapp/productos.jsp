@@ -24,8 +24,7 @@ List<Producto> lista =
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css"
           rel="stylesheet">
 
-    <link rel="stylesheet"
-          href="css/producto.css">
+    <link rel="stylesheet" href="css/producto.css">
 
 </head>
 
@@ -55,9 +54,6 @@ List<Producto> lista =
         <div class="nav-group-label">
             Categorias
         </div>
-
-        href="<%= request.getContextPath() %>/productos"
-           class="nav-link-s">
 
             Todos
 
@@ -132,14 +128,14 @@ List<Producto> lista =
     <div class="sidebar-bottom">
 
         <a href="music/cassette.jsp"
-           class="skynet-fm-btn">
+           class="skynet-fm-</style>btn">
 
             <i class="bi bi-music-note-beamed"></i>
 
             Skynet FM
 
         </a>
-
+</style>
     </div>
 
 </aside>
